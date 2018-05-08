@@ -1,4 +1,4 @@
-var dappAddress = "n1wocsYdgmUD3bcBbK9EukmdAZ4v9m5kDK5";
+var dappAddress = "n1fHecxPrAiGbJmGRmjAmngyzUJ87SYQoDE";
 
 $("#load_next").click(function () {
     var voteCount = localStorage.getItem("voteCount");
